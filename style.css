@@ -10,4 +10,5 @@ body{
 
 h2{
     color: white;
+   text-decoration-line: line-through;
 }
